@@ -1,0 +1,11 @@
+[package]
+name = "comand-line-program"
+version = "0.1.0"
+edition = "2021"
+description = "comand line program from the book"
+repository = "https://github.com/drozdzu88/comand-line-program"
+license = "MIT OR Apache-2.0"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
